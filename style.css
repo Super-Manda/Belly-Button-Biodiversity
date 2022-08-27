@@ -1,0 +1,31 @@
+body {
+
+    color: black;
+    font-family: Arial;
+  }
+
+  .jumbotron {
+    background-image: url('../images/biodiversity_image.jpg');
+    background-size: 100% 100%;
+    opacity: 0.7;
+    text-align: center;
+    color: green;
+    /* text-shadow: 3px 3px 8px white; */
+    
+  } 
+
+  .well {
+background-color: chartreuse;
+font-family: Arial;
+font-weight: 90;
+font-size: smaller;
+
+
+  }
+
+  .panel {
+    background-color: chartreuse;
+    font-family: Arial;
+    font-weight: 90;
+    
+      }
